@@ -1,3 +1,4 @@
 <div align="center">
-    <h1><a href="https://icaro-lang.github.io/Icaro-doc/">🚀   GET STARTED   🚀</a></h1>
+    <h1>JVM ecosystem made simple.</h1> 
+    <h2><a href="https://icaro-lang.github.io/Icaro-doc/">start here</a></h2> 
 </div>
